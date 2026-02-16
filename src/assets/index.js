@@ -35,11 +35,13 @@ import classeh from './company/classeh.png'
 import tesla from './company/tesla.png'
 
 import carrent from './carrent.png'
+import NextjDashborad from './NextjDashborad.png'
 import jobit from './jobit.png'
 import tripguide from './tripguide.png'
 
 export {
   logo,
+  NextjDashborad,
   mohamad,
   kiyana,
   backend,
